@@ -1,5 +1,8 @@
 #Product-Sales-Dashboard-PowerBI
+
+
 **Business Problem**
+
 
 A retail company was struggling to monitor and evaluate product sales performance across multiple products and time periods. Sales records were stored in raw data tables, making it difficult for management to:
 
